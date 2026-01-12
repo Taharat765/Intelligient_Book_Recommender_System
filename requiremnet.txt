@@ -2,9 +2,4 @@ streamlit
 pandas
 numpy
 scikit-learn
-nltk
-streamlit
-pandas
-numpy
-scikit-learn
 requests
